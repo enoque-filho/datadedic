@@ -1,6 +1,6 @@
-![]()![](logo.png){width="250"}
+<img src="logo.png" alt="Logo" width="150" height="150">
 
-\# Publicações da DataDedic Consultoria Estatística
+# Publicações da DataDedic Consultoria Estatística
 
 A DataDedic é o meu projeto pessoal de Consultoria Estatística.
 
